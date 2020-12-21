@@ -1,5 +1,6 @@
 Bloco de notas criado durante o curso de React js da Alura.
 
+![Alt Text](https://github.com/supp3rdan/ceep/blob/main/src/assets/img/blocoNotas.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
